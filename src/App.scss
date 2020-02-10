@@ -1,0 +1,13 @@
+@import 'carbon-components/scss/globals/scss/vendor/@carbon/type/scss/font-family.scss';
+@import 'carbon-components/scss/globals/scss/vendor/@carbon/layout/scss/breakpoint.scss';
+@import 'carbon-components/scss/globals/scss/typography.scss';
+@import 'carbon-components/scss/globals/scss/vars.scss';
+
+@import './components/WelcomePage/welcome-page.scss';
+@import './contents/DashboardPage/dashboard-page.scss';
+@import './components/FooterPage/footer-page.scss';
+@import './contents/SelectMoodPage/select-mood-page.scss';
+
+.App {
+  text-align: center;
+}

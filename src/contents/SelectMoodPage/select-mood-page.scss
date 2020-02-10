@@ -1,0 +1,65 @@
+.form-container {
+    background-color: rgb(247, 243, 252)
+}
+
+.container {
+    margin: -22px -40px -10px -40px;
+}
+
+.SectionHeaders{
+    font-size:15px;
+    font-weight: bold;
+    width: 100%;
+    text-align: left;
+    background-color:rgba(248, 172, 248, 0.884);
+    padding:10px 5px 10px 5px;
+}
+
+.Rows{
+    width: 100%;
+}
+
+.radioImage{
+    width: 70px;
+    height: 70px;
+}
+
+.radioImageSelected{
+    width: 80px;
+    height: 80px;
+}
+  
+.RadioOptionsAlignment{
+    display: inline-block;
+    padding: 20px 0 0 20px;
+}
+
+.squadinput {
+    box-sizing: border-box;
+    width: 80%;
+    outline: none;
+    margin: 10px 0 10px 0;
+    background: #fff;
+    border: 1px solid #dbdbdb;
+    padding: 9px 8px;
+    border-radius: 2px;
+}
+
+.floatLabel {
+    color: #999;
+    padding: 8px 10px 6px 15px;
+    font-weight: 600;
+    background-color: rgba(247, 243, 252, 0.8);
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+.moodOptionSelected {
+    right:0;
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    margin: 10px 20px 5px 0;
+
+}

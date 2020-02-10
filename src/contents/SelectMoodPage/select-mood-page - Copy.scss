@@ -1,0 +1,56 @@
+.form-container {
+    background-color: rgb(247, 243, 252)
+}
+
+.container {
+    margin: -22px -40px -10px -40px;
+}
+
+.SectionHeaders{
+    font-size:15px;
+    font-weight: bold;
+    width: 100%;
+    text-align: left;
+    background-color:rgba(248, 172, 248, 0.884);
+    padding:10px 5px 10px 5px;
+}
+
+.Rows{
+    width: 100%;
+}
+
+.radioImage{
+    max-width: 70px ;
+    max-height: 70px;
+}
+  
+.RadioOptionsAlignment{
+    display: inline-block;
+    padding-left: 20px;
+}
+
+$button: rgba(148,186,101,0.7);
+
+input {
+    box-sizing: border-box;
+    width: 60%;
+    outline: none;
+    margin:0;
+}
+input[type="text"],
+input[type="password"] {
+    background: #fff;
+    border: 1px solid #dbdbdb;
+    padding: 9px 8px;
+    border-radius: 2px;
+}
+
+.floatLabel {
+    left: 18px;
+    top: 108px;
+    color: #999;
+    padding: 4px 10px;
+    font-weight: 400;
+    background-color: rgba(250, 195, 252, 0.8);
+    font-size: 14px;
+}
